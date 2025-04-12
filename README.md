@@ -11,33 +11,21 @@ Full-stack developer specializing in blockchain and AI convergence. Building ver
 
 Passionate about solving real-world problems through decentralized AI solutions that prioritize transparency and user sovereignty.
 
-🌐 **Community Leadership**
+🌐 **Community Roles**
+- Founder of BuidlLand
+- CTO of UtopiAI
 - Core Contributor focEliza
 - Senator of the HackQuest
 - SeeDAO Name Service
 - GDG & PyCon Volunteer
 
 🚀 **Achievements**:
-- 6x Hackathon Winner (Flow/HackQuest/ai16z/Linea/EasyDapp/Baidu)
+- 9x Hackathon Winner (Tintin Agent/Move/Near/Flow/HackQuest/ai16z/Linea/EasyDapp/Baidu)
 - 6 Patents in AI/ML
 - AWS Certified AI Practitioner
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=veithly&show_icons=true&theme=radical&count_private=true)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=veithly&theme=onedark&no-frame=true&margin-w=15)
-
-
-## Featured Projects
-
-### BountyBoard - Decentralized Task Platform
-![GitHub Stars](https://img.shields.io/github/stars/veithly/bountyboard?style=for-the-badge&logo=starship&color=blue)
-
-**Stack**: Solidity, Next.js, ElizaOS
-
-**Highlights**:
-- Cross-chain deployment (5+ EVM chains)
-- TEE-based verification system
-- 900+ GitHub stars
-- 1st Prize Flow & HackQuest Hackathon
 
 ## Technical Arsenal
 
