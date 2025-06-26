@@ -12,8 +12,7 @@ Full-stack developer specializing in blockchain and AI convergence. Building ver
 Passionate about solving real-world problems through decentralized AI solutions that prioritize transparency and user sovereignty.
 
 🌐 **Community Roles**
-- Founder of BuidlLand
-- CTO of UtopiAI
+- Founder of BuidlLand & 0xAuto
 - Core Contributor focEliza
 - Senator of the HackQuest
 - SeeDAO Name Service
