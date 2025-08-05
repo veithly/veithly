@@ -2,7 +2,7 @@
 
 👋 **About Me**
 
-Full-stack developer specializing in blockchain and AI convergence. Building verifiable intelligent systems that combine smart contracts with machine learning. Key focus areas:
+Full-stack developer specializing in blockchain and AI convergence. Building verifiable intelligent systems that combine smart contracts with AI. Key focus areas:
 
 - **AI-Enhanced DApps**: Integrating LLMs for smarter DeFi protocols
 - **Trustless AI**: Developing ZKML solutions for on-chain model verification
@@ -12,14 +12,15 @@ Full-stack developer specializing in blockchain and AI convergence. Building ver
 Passionate about solving real-world problems through decentralized AI solutions that prioritize transparency and user sovereignty.
 
 🌐 **Community Roles**
-- Founder of BuidlLand & 0xAuto
+
+- Ambassador of Arbitrum, Nexus, SonicLab, Xion
 - Core Contributor focEliza
 - Senator of the HackQuest
 - SeeDAO Name Service
-- GDG & PyCon Volunteer
+- OpenBuild & GDG & PyCon Volunteer
 
 🚀 **Achievements**:
-- 9x Hackathon Winner (Tintin Agent/Move/Near/Flow/HackQuest/ai16z/Linea/EasyDapp/Baidu)
+- 10+ Hackathon Winner (Adventure X/Weekly/Tintin Agent/Movement/Near/Flow/HackQuest/ai16z/Linea/EasyDapp/Baidu)
 - 6 Patents in AI/ML
 - AWS Certified AI Practitioner
 
