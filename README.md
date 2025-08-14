@@ -13,6 +13,7 @@ Passionate about solving real-world problems through decentralized AI solutions 
 
 🌐 **Community Roles**
 
+- Core Dev of SpoonOS
 - Ambassador of Arbitrum, Nexus, SonicLab, Xion
 - Core Contributor focEliza
 - Senator of the HackQuest
