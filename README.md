@@ -1,4 +1,4 @@
-# Hi, I'm Ricky
+# Hi, I'm Rick
 
 👋 **About Me**
 
