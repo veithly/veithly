@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="470" viewBox="0 0 1280 470" role="img" aria-labelledby="title desc">
+  <title id="title">Rick / veithly current project map</title>
+  <desc id="desc">A systems map connecting current work across agent infrastructure, operator tools, and Web3 product systems.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070914"/>
+      <stop offset="1" stop-color="#0B1020"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#A3E635"/>
+      <stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+    <pattern id="mesh" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1F2A44" stroke-width="1" opacity="0.5"/>
+    </pattern>
+    <style>
+      .label { font-family: Inter, Segoe UI, Arial, sans-serif; fill: #F8FAFC; font-weight: 800; }
+      .small { font-family: Inter, Segoe UI, Arial, sans-serif; fill: #A7B1C2; }
+      .mono { font-family: Consolas, Menlo, monospace; fill: #D1D5DB; }
+      .card { fill: #0E1628; stroke: #2B3A55; stroke-width: 1.3; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="470" rx="24" fill="url(#bg)"/>
+  <rect width="1280" height="470" rx="24" fill="url(#mesh)" opacity="0.55"/>
+  <text x="58" y="58" class="label" font-size="30">Current shipping map</text>
+  <text x="58" y="86" class="small" font-size="16">Recent public work clustered by the systems it advances.</text>
+
+  <path d="M244 250 C340 142 458 146 540 235 S740 335 838 232 1014 142 1118 218" fill="none" stroke="url(#line)" stroke-width="3" opacity="0.8"/>
+  <path d="M244 250 C382 316 502 350 650 248 S904 92 1118 218" fill="none" stroke="#38BDF8" stroke-width="1.5" opacity="0.35"/>
+
+  <g transform="translate(58 132)">
+    <rect class="card" width="300" height="128" rx="16"/>
+    <text x="24" y="36" class="label" font-size="21">AgentProof</text>
+    <text x="24" y="66" class="small" font-size="15">Signed traces, policy firewall, replay</text>
+    <text x="24" y="96" class="mono" font-size="14">agent runs -> proof bundles</text>
+    <circle cx="260" cy="34" r="9" fill="#38BDF8"/>
+  </g>
+
+  <g transform="translate(394 96)">
+    <rect class="card" width="314" height="128" rx="16"/>
+    <text x="24" y="36" class="label" font-size="21">VibeShell</text>
+    <text x="24" y="66" class="small" font-size="15">AI-native SSH, SFTP, tunnels</text>
+    <text x="24" y="96" class="mono" font-size="14">local-first ops workspace</text>
+    <circle cx="274" cy="34" r="9" fill="#A3E635"/>
+  </g>
+
+  <g transform="translate(770 116)">
+    <rect class="card" width="350" height="128" rx="16"/>
+    <text x="24" y="36" class="label" font-size="21">Harness Architecture</text>
+    <text x="24" y="66" class="small" font-size="15">Bilingual source-grounded agent notes</text>
+    <text x="24" y="96" class="mono" font-size="14">Codex / Claude Code / OpenClaw</text>
+    <circle cx="310" cy="34" r="9" fill="#F97316"/>
+  </g>
+
+  <g transform="translate(138 306)">
+    <rect class="card" width="300" height="112" rx="16"/>
+    <text x="24" y="36" class="label" font-size="20">Incident Room</text>
+    <text x="24" y="65" class="small" font-size="15">Moderation command room</text>
+    <text x="24" y="91" class="mono" font-size="14">Devvit / Redis / AI briefing</text>
+  </g>
+
+  <g transform="translate(492 294)">
+    <rect class="card" width="300" height="112" rx="16"/>
+    <text x="24" y="36" class="label" font-size="20">IntentScope</text>
+    <text x="24" y="65" class="small" font-size="15">LI.FI Intents flight recorder</text>
+    <text x="24" y="91" class="mono" font-size="14">intent flow observability</text>
+  </g>
+
+  <g transform="translate(846 306)">
+    <rect class="card" width="318" height="112" rx="16"/>
+    <text x="24" y="36" class="label" font-size="20">Sui + Launch Lab</text>
+    <text x="24" y="65" class="small" font-size="15">TxTrace, LaunchShield, rapid rails</text>
+    <text x="24" y="91" class="mono" font-size="14">PTB tools / launch safety / demos</text>
+  </g>
+
+</svg>
