@@ -26,6 +26,8 @@ I build the control layer around serious agents: runtime memory, tool routing, t
 
 The center of gravity right now is **SpoonOS** and the execution surfaces around it: making agent workflows observable, useful, and operator-grade.
 
+[![GitHub Roast](https://githubroast.icu/api/card/veithly)](https://githubroast.icu/u/veithly)
+
 ## Active Builds
 
 | Project | What it proves | Surface |
